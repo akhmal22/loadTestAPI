@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+GET,/criminal/all,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",5
+GET,/criminal/all,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",20

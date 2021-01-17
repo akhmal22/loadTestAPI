@@ -1,0 +1,23 @@
+Method,Name,Error,Occurrences
+PUT,/criminal/15,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/70,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1
+PUT,/criminal/88,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/43,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/107,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/100,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1
+PUT,/criminal/96,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/78,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/115,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1
+PUT,/criminal/117,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/125,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/47,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1
+PUT,/criminal/13,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1
+PUT,/criminal/61,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1
+PUT,/criminal/102,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/11,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/110,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1
+PUT,/criminal/80,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1
+PUT,/criminal/53,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/67,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
+PUT,/criminal/104,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1
+PUT,/criminal/72,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1
