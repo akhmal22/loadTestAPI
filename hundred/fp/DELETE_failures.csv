@@ -1,7 +1,0 @@
-Method,Name,Error,Occurrences
-DELETE,/criminal/1509,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",2
-DELETE,/criminal/3009,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
-DELETE,/criminal/4809,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
-DELETE,/criminal/1809,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",1
-DELETE,/criminal/2809,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",2
-DELETE,/criminal/3409,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",1

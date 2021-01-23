@@ -7,7 +7,7 @@ def addingCounter():
     counter = counter + 1
 
 class WebsiteUser(HttpUser):
-    wait_time = constant(5)
+    wait_time = constant(1)
 
 
     @task

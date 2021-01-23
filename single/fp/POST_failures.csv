@@ -1,3 +1,0 @@
-Method,Name,Error,Occurrences
-POST,/criminal,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",18
-POST,/criminal,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",6
